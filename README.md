@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ljnazar&show_icons=true&hide=issues,contribs&theme=dark#gh-dark-mode-only)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ljnazar&show_icons=true&hide=issues,contribs&theme=dark#gh-dark-mode-only)]
 
 <!--
 **ljnazar/ljnazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
