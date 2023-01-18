@@ -4,6 +4,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljnazar)]()
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ljnazar&langs_count=6&layout=compact&theme=dark#gh-dark-mode-only)]()
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)]()
 
 <!--
