@@ -4,7 +4,7 @@
   <img height="150" align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ljnazar&show_icons=true&hide=issues,contribs&theme=dark#gh-dark-mode-only" />
 </a>
 
-<div width="50"></div>
+<p width="50"></p>
 
 <a href="https://github.com/ljnazar">
   <img height="150" align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ljnazar&langs_count=6&layout=compact&theme=dark#gh-dark-mode-only" />
