@@ -1,18 +1,11 @@
 ### Hi there 👋
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ljnazar&show_icons=true&hide=issues,contribs&theme=dark#gh-dark-mode-only)]()
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljnazar)]()
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ljnazar&langs_count=6&layout=compact&theme=dark#gh-dark-mode-only)]()
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)]()
-
 <a href="https://github.com/ljnazar">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ljnazar&show_icons=true&hide=issues,contribs&theme=dark#gh-dark-mode-only" />
+  <img height="150" align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ljnazar&show_icons=true&hide=issues,contribs&theme=dark#gh-dark-mode-only" />
 </a>
+
 <a href="https://github.com/ljnazar">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ljnazar&langs_count=6&layout=compact&theme=dark#gh-dark-mode-only" />
+  <img height="150" align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ljnazar&langs_count=6&layout=compact&theme=dark#gh-dark-mode-only" />
 </a>
 
 <!--
