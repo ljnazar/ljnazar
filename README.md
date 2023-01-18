@@ -8,11 +8,11 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)]()
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/ljnazar">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ljnazar&show_icons=true&hide=issues,contribs&theme=dark#gh-dark-mode-only" />
 </a>
-<a href="https://github.com/rachosuar/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ljnazar" />
+<a href="https://github.com/ljnazar">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ljnazar&langs_count=6&layout=compact&theme=dark#gh-dark-mode-only" />
 </a>
 
 <!--
